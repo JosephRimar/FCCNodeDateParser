@@ -1,0 +1,17 @@
+{
+  "name": "dateparser",
+  "version": "1.0.0",
+  "description": "simple url parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Rimar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "engines": {
+    "node": "4.1.1"
+  }
+}
